@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @FathimaRiyas
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning SQL
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently looking for new opportunities
 - 📫 fathimariyas619@gmail.com
+  
 
 <!---
 FathimaRiyas/FathimaRiyas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
